@@ -24,6 +24,8 @@ dist-ssr
 *.sw?
 # dependencies
 node_modules/
+node_modules/
+
 
 # builds
 dist/
